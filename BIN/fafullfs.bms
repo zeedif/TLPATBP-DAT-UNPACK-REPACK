@@ -1,0 +1,23 @@
+#The Witch And The Hundred Knight (PS4) .dat
+idstring "FAFULLFS"
+get FILES longlong
+get NSOFF longlong #names
+get NSIZE longlong
+get TABLEOFF longlong
+goto TABLEOFF
+savepos TMP
+for i = 0 < FILES
+goto TMP
+get UNK1 longlong
+get NOFF longlong
+get NULL longlong
+get SIZE longlong
+get FOFF longlong
+get UNK3 longlong
+savepos TMP
+xmath NTMP "NSOFF + NOFF"
+goto NTMP
+get FNAME string
+goto FOFF
+log FNAME FOFF SIZE
+next i

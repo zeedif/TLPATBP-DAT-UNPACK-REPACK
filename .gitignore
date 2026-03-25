@@ -1,0 +1,13 @@
+# Ignorar ejecutables y archivos del juego
+PrincessAndPrince.exe
+lz4.dll
+steam_api64.dll
+OSS.html
+changelog.txt
+data.dat
+
+# Ignorar archivos extraídos
+DATA/
+
+# Excepciones de las herramientas en BIN
+!BIN/quickbms.exe
