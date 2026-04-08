@@ -1,0 +1,215 @@
+script/demo_01_0_201.lua
+狼と王子
+The Wolf and the Prince
+늑대와 왕자
+狼與王子
+script/demo_02_0_201.lua
+王子の目を…
+The Prince's Eyes…
+왕자의 눈을…
+將王子的眼睛……
+script/demo_03_0_101.lua
+塔に忍び込む狼
+Sneaking into the Tower
+탑에 숨어든 늑대
+潛入塔內的狼
+script/demo_04_0_101.lua
+幽閉された王子
+The Prince, Locked Away
+유폐된 왕자
+被幽禁的王子
+script/demo_05_0_701.lua
+お姫様にして！
+Turn Me into a Princess!
+공주님이 될래!
+變成公主！
+script/demo_06_0_101.lua
+変身してみよう
+Let's Transform!
+변신해 보자
+試著變身看看
+script/demo_06_1_101.lua
+王子を連れ出そう
+Rescuing the Prince
+왕자를 데려오자
+帶王子走
+script/demo_06_2_101.lua
+初めての手繋ぎ
+First Time Holding Hands 
+처음 잡은 손
+第一次牽手
+script/demo_06_3_101.lua
+旅の始まり
+Journey's Start
+여행의 시작
+踏上旅程
+script/demo_07_0_202.lua
+突然の遭遇
+A Surprising Encounter
+갑작스러운 만남
+意外的偶遇
+script/demo_07_1_202.lua
+花のプレゼント
+A Flower Gift
+꽃을 선물하다
+花的贈禮
+script/demo_09_0_203.lua
+生肉は…
+Raw Meat Is…
+날고기는…
+生肉……
+script/demo_10_0_301.lua
+山羊との出会い
+Goat Encounter
+염소와의 만남
+與山羊的邂逅
+script/demo_11_0_301.lua
+お肉は焼かなきゃ
+You Have to Cook the Meat
+고기는 구워야 해
+要把肉烤熟才行
+script/demo_11_1_301.lua
+山羊のお礼
+Thankful Goats
+염소의 보답
+山羊的答謝
+script/demo_12_0_401.lua
+湖畔にて
+At the Lakeside
+호수에서
+在湖畔
+script/demo_13_0_402.lua
+本当の姿で？
+The True Form?
+진짜 모습으로…?
+以真面目示人？
+script/demo_14_0_501.lua
+足元注意！
+Watch Your Step!
+발밑을 조심해!
+注意腳邊！
+script/demo_15_0_502.lua
+土竜の巣で
+At the Moles' Nest
+두더지의 집
+在鼴鼠巢穴
+script/demo_16_0_503.lua
+お花集め
+Gathering Flowers
+꽃을 모으자
+收集花朵
+script/demo_17_0_502.lua
+土竜のお礼
+Thankful Moles
+두더지의 보답
+鼴鼠的答謝
+script/demo_18_0_503.lua
+嘘つき！
+You Liar!
+거짓말쟁이!
+騙子！
+script/demo_19_0_601.lua
+王子をみつけた
+Finding the Prince
+왕자를 찾아내다
+找到王子了
+script/demo_19_1_601.lua
+王子救出！魔女暴走？
+Saving from Wrath
+왕자 구출! 마녀 폭주?
+拯救王子！魔女失控？
+script/demo_20_0_602.lua
+怪物魔女との対峙
+Battle with the Witch
+괴물 마녀와의 대치
+與怪物魔女對峙
+script/demo_22_0_702.lua
+王子を治して…！
+Heal the Prince's Eyes...!
+왕자를 치료해 줘…!
+治好王子……！
+script/demo_23_0_201.lua
+王子と狼
+The Prince and the Wolf
+왕자와 늑대
+王子與狼
+script/demo_24_0_000.lua
+エンドロール
+End Credits
+엔드롤
+結尾製作名單
+script/demo_princessdead_normal.lua
+
+
+
+
+script/demo_princessdead_noaction.lua
+
+
+
+
+script/demo_princessdead_fall.lua
+
+
+
+
+script/demo_princedead_normal.lua
+
+
+
+
+script/demo_princedead_noaction.lua
+
+
+
+
+script/demo_princedead_fall.lua
+
+
+
+
+script/pickupflower.lua
+
+
+
+
+script/passflower.lua
+
+
+
+
+script/lastbossstagestart.lua
+
+
+
+
+script/lastbossdamage1.lua
+
+
+
+
+script/lastbossdamage2.lua
+
+
+
+
+script/lastbossdead.lua
+
+
+
+
+script/lastbossrestart1.lua
+
+
+
+
+script/lastbossrestart2.lua
+
+
+
+
+script/screensway.lua
+
+
+
+

@@ -6,8 +6,16 @@ OSS.html
 changelog.txt
 data.dat
 
-# Ignorar archivos extraídos
+# Ignorar carpeta de archivos extraídos (creada por QuickBMS)
 DATA/
 
+# Ignorar carpetas temporales de la herramienta de texto
+BIN/dat/
+BIN/txt/
+BIN/new_dat/
+
 # Excepciones de las herramientas en BIN
+!BIN/fafullfs.bms
+!BIN/LPBP_dat.exe
+!BIN/quickbms.txt
 !BIN/quickbms.exe

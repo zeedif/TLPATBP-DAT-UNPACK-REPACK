@@ -1,0 +1,608 @@
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓙ
+Ⓚ
+Ⓚ
+Ⓚ
+Ⓚ
+Ⓗ移動
+ⒽMove
+Ⓗ 이동
+Ⓗ 移動
+Ⓛ攻撃
+ⓁAttack
+Ⓛ 공격
+Ⓛ 攻擊
+Ⓞ走る
+ⓄRun
+Ⓞ 뛰기
+Ⓞ 奔跑
+Ⓙジャンプ
+ⒿJump
+Ⓙ 점프
+Ⓙ 跳躍
+この足場は二人で乗ると壊れてしまいそうです。\n王子と手を繋いで、\nⒼで「歩いて」とお願いしてみましょう。
+This footing might break with two people on it.\nHold the prince's hand\nand ask him to “walk” with Ⓖ.
+이 발판은 둘이 같이 올라가면\n부서질 것 같습니다.\n왕자의 손을 잡고 방향키 Ⓖ 를 눌러\n부탁 커맨드 「걷기」를 사용해 봅시다.
+這個踏腳處如果兩個人一起站上去說不定就會垮掉。\n牽起王子的手，\n試著用 Ⓖ 發出「走吧」的請求吧。
+この石、王子に\n持ってもらえそうです。\nⒻで「持って」とお願いしてみましょう。
+It seems that the prince\ncan hold this stone.\nLet's ask him to “hold” with Ⓕ.
+왕자에게 돌을 들어 달라고\n부탁할 수 있을 것 같습니다.\n방향키 Ⓕ 를 눌러 부탁 커맨드\n「들기」를 사용해 봅시다.
+這個石頭，\n王子應該拿得動。\n試著用 Ⓕ 發出「拿著」的請求吧。
+Ⓕで「置いて」とお願いしてみましょう。
+Let's ask him to “place” with Ⓕ.
+방향키 Ⓕ 를 눌러 부탁 커맨드\n「내려놓기」를 사용해 봅시다.
+試著用 Ⓕ 發出「放著」的請求吧。
+不思議な水晶が並んでいる。\n姫で近づいてⓀで触れてみよう。
+There's a mysterious row of crystals.\nLet's have the princess approach it and touch with Ⓚ.
+신비한 수정이 늘어서 있다.\n공주의 모습으로 다가가\nⓀ 버튼을 눌러 보자.
+不可思議的水晶併排著。\n讓公主靠近並以 Ⓚ 觸碰看看吧。
+
+
+
+
+
+
+
+
+ひとつとふたつ\nふたつとみっつ\nみっつとひとつ\nかけあわせ道は開かん
+One and two\nTwo and three \nThree and one \nUnless you cross them, the road will not open.
+한 개와 두 개\n두 개와 세 개\n세 개와 한 개\n곱해서 모으면 길이 열릴지니
+一與二\n二與三\n三與一\n乘起來應該就能過了
+まよい人を導く大鳥\nみぎによっつの翼を持ち\nひだりに■っ■の■■■つ\n（一部かすれて読めない）
+Large birds leading a stray person\nhave four wings on the right side,\n■■■ht on the left...\n(I can't read part of it...)
+길 잃은 이를 인도하는 거대한 새\n오른쪽 날개는 네 개\n왼쪽 날개는 ■■■■\n(문자가 지워져 있어 읽을 수 없다.)
+指引迷途之人的巨鳥\n右側有４片翅膀\n左側有■個■■\n（一部分被磨損看不清楚）
+魔女の庭に飾られるは数々の蒐集品。\nこの地（連なる嘆き籠）を彩る\nあか、き、あおの珠を数えあげよ。
+Many collected items decorate the witch's garden.\nDecorate this place (a continuous wailing basket)\nCount the red, yellow, and blue gems.
+마녀의 정원엔 마녀의 수집품이\n장식되어 있다. 끝없는 한탄에\n장식된 적색, 황색, 청색 구슬의\n개수를 세어라.
+有許多的收藏物裝飾在魔女的庭園中。\n請數出裝飾於此地（相連的嘆息籠）的\n紅，黃，藍珠子數量。
+１１１１１３７１４３\n５７２１９６２００３\n２１５００００２１９\n６１６３９９９０００
+１１１１１３７１４３\n５７２１９６２００３\n２１５００００２１９\n６１６３９９９０００
+１１１１１３７１５３\n４７２１９６２００５\n２１３００１０９０２\n６１６３９９９０００
+１１１１１５７１４３\n２７５１９６２００３\n２１３００００２０１\n６９６３９９９０１０
+眠り亀。それはたった\n１年じゃあ目覚めない\n。次の目覚めはきっと\n、君が土へと還る頃。
+Sleep, sleep.\nRepose for 1 year.\nWake at the first hour\nand not a second past.
+깊이잠든거북이는１년\n뒤에도깨어나지않을것\n이다．눈을뜰즈음엔네\n가땅으로돌아가겠지．
+眠龜。如果就只有那麼\n短短１年是不會醒來的\n。下一次甦醒過來之時\n，你也終將入土為安。
+森の奥にある苔クジラ\nの亡骸は、数年にいち\nど、４日かけて瞬きを\nするという噂がある。
+Death in the forest\nand 4 days to notice.\nThree witnesses;\nless than a third spoke.
+깊은숲속의이끼고래사\n체는몇년에한번씩，４\n일동안눈을깜빡인다는\n소문을들은적이있다．
+苔鯨亡骸有４天會閃耀\n光芒，據說此現象數年\n僅有一次。苔鯨亡骸就\n位於深邃的森林深處。
+魔女の黒沼は瘴気を放\nつ毒の沼。もし足を踏\nみ入れたのなら、３秒\n経つ前に離れなさい。
+A poisonous swamp\ntakes 3 minutes to cross.\nThe ninth to do so\nearns thrice his wealth.
+마녀의검은늪은독안개\n를뿜어낸다．이곳에발\n을들인자는３초이내에\n빠져나가야할것이다．
+魔女黑沼是充滿著瘴氣\n的毒沼。如果要走進這\n個毒沼之中，請務必記\n得安全時間為秒數３。
+泪花の青い光に照らさ\nれるこの洞窟は、かつ\nて水で満ちていた、２\n億の記憶が眠る場所。
+Illumination\nhas 2 phases:\na show of ten beams,\nand three pulsing glares.
+눈물꽃의푸른빛이가득\n한동굴．지금은자취를\n감춘물결과함께２억년\n의기억이잠들어있다．
+這個映照著淚花藍色光\n芒的洞窟裡，過去曾經\n蓄滿了水，也是此地沉\n眠２億個記憶的證明。
+ステージ4-4　ヒント1
+Stage 4-4 Tip 1
+스테이지4-4　힌트1
+關卡4-4　提示1
+これは数の集まり。４つの物語を探しだせ。\nそれぞれの物語を数の集まりと重ね合わせ、\n数が重なる数をしめせ。
+This is a collection of numbers. Uncover four stories \nwithin stones. Each story contains information that \nindicates the order and location of the number sequence.
+숫자가 잔뜩 쓰여 있다.\n네 가지 이야기를 찾아\n겹치는 숫자를 찾아라.
+這是數字群。從４個故事中尋找看看吧。\n將每個故事與數字群重疊，\n數字即代表重疊的數字。
+みぎは近道。\nしたは困難の道。
+The right side is a shortcut.\nDown below is a difficult road.
+오른쪽은 지름길.\n아래쪽은 고난의 길.
+右方是簡易路線。\n下方是困難路線。
+これはランタンです。\n王子に「持って」もらい、\nかがり火に近づいてみましょう。
+This is a lantern.\nLet's ask the prince to “hold” it \nand approach the fire.
+이것은 랜턴입니다.\n부탁 커맨드「들기」를 사용한 뒤\n횃불 근처로 다가가 봅시다.
+這是燈籠。\n請求王子「拿著」，\n試著接近篝火看看。
+化け物の中には火を怖がり、\n近づいてこなくなるものが居るようです。
+Some monsters are afraid of fire.\nIt seems they will not come closer.
+괴물들 중에는 불이 무서워서\n가까이 오지 못하는 녀석들도\n있는 것 같습니다.
+有些怪物害怕火焰，\n他們會對火焰保持一定的距離。
+（王子にここまで来てほしい…\nちょっと離れてるけどお願いできないかな…？）\nⒼでお願いをしてみましょう。
+(I want the prince to come over...\nI'm a bit far away, but maybe I can ask...?)\nUse Ⓖ and ask the prince.
+(왕자가 여기까지 와 줬으면 좋겠는데…\n 조금 멀긴 하지만 부탁해 볼까…?)\n방향키 Ⓖ 를 눌러 부탁해 봅시다.
+（希望王子可以到這邊來……\n雖然有點距離，要不要請求看看呢……？）\n試著用 Ⓖ 請求看看吧。
+これからは少しはなれていても\n王子にお願いができるようになりました。
+You can now ask for help from the prince,\neven if you're a little far away.
+이제 조금 떨어진 곳에서도\n부탁 커맨드를 사용할 수 있습니다.
+今後就算有點距離，\n也可以對王子發出請求了。
+Ⓜで変身して\n姫の姿で檻に近づいてみましょう。
+Transform using Ⓜ.\nTry approaching the cage as the princess.
+Ⓜ 버튼으로 변신해 봅시다.
+試著用 Ⓜ 變身看看吧。
+檻を攻撃して壊しましょう。
+Let's attack the cage and destroy it.
+감옥을 공격해 파괴합시다.
+攻擊並破壞柵欄吧。
+姫で王子に近づき、\nⓁで王子の手を取りましょう。
+As the princess gets closer to the prince, \ntake the prince's hand using Ⓛ.
+공주의 모습으로 왕자에게 다가가\nⓁ 버튼을 눌러 왕자의 손을 잡으세요.
+讓公主靠近王子，\n用 Ⓛ 牽起王子的手吧。
+手を繋いだまま歩くと王子がついてきます。\n王子の手を引いてお城から連れ出しましょう。
+As you walk hand in hand, the prince will follow.\nLet's pull his hand and escort him from the castle.
+손을 잡은 채 이동하면 왕자가 뒤를 따라옵니다.\n왕자의 손을 잡고 성을 빠져나갑시다.
+在牽手的狀態下步行的話，王子就會跟著移動。\n牽著王子的手帶他離開城堡吧。
+レバーは姫の姿で近づいて、\nⓀで動かすことができます。
+You can move the lever in princess form\nby using Ⓚ.
+공주의 모습으로 레버에 다가가\nⓀ 버튼을 누르면\n작동시킬 수 있습니다.
+以公主的姿態靠近拉桿，\n可以使用 Ⓚ 扳動。
+姫の姿で花に近づいて、\nⓀで摘みましょう。
+Let's approach the flowers in princess form\nand pick them with Ⓚ.
+공주의 모습으로 꽃에 다가가\nⓀ 버튼을 누르면\n꽃을 꺾을 수 있습니다.
+以公主的姿態靠近花，\n用 Ⓚ 摘取吧。
+王子に近づいて、\nⓀで花を渡すことができます。
+Approach the prince and\ngive him a flower using Ⓚ.
+왕자에게 가까이 다가가\nⓀ 버튼을 누르면\n꽃을 건네줄 수 있습니다.
+靠近王子，\n可以使用 Ⓚ 遞出花。
+王子をランタンの側に連れていき、\nⒻで「持って」とお願いをしてみましょう。
+Take the prince next to the lantern.\nLet's make a request to “hold” with Ⓕ.
+왕자를 랜턴 근처로 데려간 뒤\n방향키 Ⓕ 를 눌러 부탁 커맨드\n「들기」를 사용해 봅시다.
+帶王子移動到燈籠的位置，\n試著用 Ⓕ 發出「拿著」的請求吧。
+強い衝撃を与えると種を飛ばす花です\n狼で攻撃してみましょう。
+It's a flower that expels seeds after a strong impact.\nLet's attack it in wolf form.
+씨앗을 뱉어 내는 꽃입니다.\n늑대의 모습으로 공격해 봅시다.
+這是受到強力衝擊就會飛散出種子的花。\n以狼的姿態攻擊看看吧。
+ランタンの火は時間が経つと\n消えてしまいます。
+Over time, the lantern's fire\nwill burn out.
+랜턴의 불은 시간이\n지나면 꺼집니다.
+燈籠的火會隨著時間流逝\n而消失。
+火は暗闇を照らします。
+The fire illuminates the dark.
+불로 어둠을 밝힐 수 있습니다.
+火可以照亮黑暗。
+火の消えたかがり火に火のついたランタンを\n近づけると火をつけることができます。
+If you place the lantern near a spot where fire has \ngone out, you can light that spot on fire again.
+불 붙은 랜턴을 들고 화로에\n가까이 다가가면 불이 붙습니다.
+將點著火的燈籠靠近沒有火的篝火，\n就可以把篝火點燃。
+王子を肉の側に連れていき、\nⒻで「持って」とお願いをしてみましょう。
+Take the prince next to the meat.\nLet's make a request to “hold” with Ⓕ.
+왕자를 고기 근처로 데려간 뒤\nⒻ 버튼을 눌러 부탁 커맨드\n「들기」를 사용해 봅시다.
+帶王子移動到肉的位置，\n試著用 Ⓕ 發出「拿著」的請求吧。
+壊せそうな箱です。\n狼で何回か攻撃してみましょう。
+It's a box that appears to be breakable. \nLet's try attacking it as the wolf.
+늑대의 모습으로 공격하면\n상자를 부술 수 있을 것 같습니다.
+看起來可以破壞的箱子，\n就以狼的姿態攻擊幾次看看吧。
+この石は王子でも持てそうです。\n「持って」とお願いしてみましょう。
+The prince can most likely lift this stone up. \nLet's ask the prince to “hold” it.
+이 돌은 왕자도 들 수 있을 것 같습니다.\n부탁 커맨드 「들기」를 사용해 봅시다.
+這個石頭王子應該拿得動。\n試著發出「拿著」的請求吧。
+月の光に触れると、狼の姿に戻ってしまいます。
+Touching the moon's light will cause a return to wolf form.
+달빛에 노출되면 늑대의\n모습으로 돌아갑니다.
+接觸到月光就會變回狼的姿態。
+この絡まった蔦は狼でも壊せないようです。\n燃やすことはできるかもしれません。
+This tangled ivy seems to be unbreakable, even by the wolf. \nIt may be burnable…
+이 덩굴은 늑대의 힘으로도 없앨 수 없습니다.\n불로 태우면 제거할 수 있을지도 모릅니다.
+這個纏在一起的藤蔓就算是狼也無法破壞。\n也許可以用燒的也說不定。
+鍵を持った状態で扉に触れると開きます。
+The door will open if you touch it when you have the key.
+열쇠를 지닌 상태로 다가가면\n문이 열립니다.
+在持有鑰匙的狀態下碰觸門扉就能開門。
+今にも崩れそうな床です。\n２人以上の重さのものが乗ると\n崩れるでしょう。
+It's a floor that's likely to collapse at any moment. \nIf more than two people stand on it,\nit will collapse.
+바닥이 당장이라도 무너질 것 같습니다.\n사람 두 명 이상의 무게가 실리면\n무너질지도 모릅니다.
+看起來隨時都會崩塌的地面。\n如果能施加２個人以上的重量，\n應該就會垮掉了吧。
+狼は２人分の重さがあります。
+The wolf weighs the same as two people.
+늑대의 무게는\n사람 두 명분입니다.
+狼的重量等同於２個人。
+今にも崩れそうな床です。\n３人以上の重さのものが乗ると\n崩れるでしょう。
+It's a floor that's likely to collapse at any moment. \nIf more than three people stand on it,\nit will collapse.
+바닥이 당장이라도 무너질 것 같습니다.\n세 명 이상의 무게가 실리면\n무너질지도 모릅니다.
+看起來隨時都會崩塌的地面。\n如果能施加３個人以上的重量，\n應該就會垮掉了吧。
+高いところから落ちても、\nキノコの上に着地すれば大丈夫なようです。
+Even if you fall from a high place, \nit'll be okay if you land on mushrooms.
+높은 곳에서 떨어지더라도\n버섯 위에 착지하면 안전합니다.
+從很高的地方掉下去時，\n只要能落在蘑菇上，似乎就不會受傷。
+この化け物からは敵意を感じません。\n近づいても大丈夫かな…？
+I don't sense any hostility from this monster. \nI wonder... If I got closer to it...?
+이 괴물에게선 적의가 느껴지지 않습니다.\n가까이 다가가도 괜찮을까요…?
+從這個怪物身上感覺不到敵意。\n靠近應該也沒關係吧……？
+魔女の魔力で\n狼に変身することができない！！
+Because of the witch's magic,\nI can't transform into a wolf!!
+마녀의 마력 때문에\n늑대로 변신할 수 없습니다!
+受到魔女的魔力影響\n而無法變身為狼！！
+崩れそうな床の上でも、\nカメの背中の上に乗って進めば大丈夫。
+Even on the collapsing floor, \nit's okay if you ride on the turtle's back.
+당장 무너질 것 같은 다리도\n거북이 등에 타면 안전합니다.
+即使是看起來快要崩塌的地面，\n只要坐在烏龜背上前進就沒問題了。
+陽だまりの花
+Sun Flowers
+햇살꽃
+向陽之花
+蜜集めの花
+Honey Flowers
+꿀꽃
+採蜜之花
+白綿の花
+Cotton Flowers
+목화꽃
+白綿之花
+虫寄せの花
+Insect Flowers
+벌레부름꽃
+引蟲之花
+渦巻いた花
+Spiral Flowers
+소용돌이꽃
+漩渦之花
+タコ足の花
+Octo Flowers
+문어발꽃
+章魚腳之花
+蒼泪の花
+Teardrop Flowers
+푸른눈물꽃
+蒼淚之花
+反響の花
+Echo Flowers
+메아리꽃
+迴響之花
+熱を帯びた花
+Warm Flowers
+열기꽃
+帶熱之花
+罪滅ぼしの花
+Penance Flowers
+속죄꽃
+除罪之花
+狼と王子
+The Wolf and the Prince
+늑대와 왕자
+狼與王子
+王子の目を…
+The Prince's Eyes...
+왕자의 눈을…
+將王子的眼睛……
+幽閉された王子
+The Prince, Locked Away
+유폐된 왕자
+被幽禁的王子
+お姫様にして！
+Turn Me into a Princess!
+공주님이 될래!
+變成公主！
+王子を連れ出そう
+Rescuing the Prince
+왕자를 데려오자
+帶王子走
+花のプレゼント
+A Flower Gift
+꽃을 선물하다
+花的贈禮
+生肉は…
+Raw Meat Is...
+날고기는…
+生肉……
+山羊との出会い
+Goat Encounter
+염소와의 만남
+與山羊的邂逅
+山羊のお礼
+Thankful Goats
+염소의 보답
+山羊的答謝
+湖畔にて
+At the Lakeside
+호수에서
+在湖畔
+本当の姿で？
+The True Form?
+진짜 모습으로…?
+以真面目示人？
+足元注意！
+Watch Your Step!
+발밑을 조심해!
+注意腳邊！
+土竜の巣で
+At the Moles' Nest
+두더지의 집
+在鼴鼠巢穴
+土竜のお礼
+Thankful Moles
+두더지의 보답
+鼴鼠的答謝
+嘘つき！
+You Liar!
+거짓말쟁이!
+騙子！
+王子救出！魔女暴走？
+Saving from Wrath
+왕자 구출! 마녀 폭주?
+拯救王子！魔女失控？
+怪物魔女との対峙
+Battle with the Witch
+괴물 마녀와의 대치
+與怪物魔女對峙
+王子を治して…！
+Heal the Prince's Eyes...!
+왕자를 치료해 줘…!
+治好王子……！
+王子と狼
+The Prince and the Wolf
+왕자와 늑대
+王子與狼
+ある魔女の物語－１
+A Witch's Tale - 1 
+어느 마녀의 이야기1
+某位魔女的故事－１
+ある魔女の物語－２
+A Witch's Tale - 2
+어느 마녀의 이야기2
+某位魔女的故事－２
+ある魔女の物語－３
+A Witch's Tale - 3
+어느 마녀의 이야기3
+某位魔女的故事－３
+ある魔女の物語－４
+A Witch's Tale - 4
+어느 마녀의 이야기4
+某位魔女的故事－４
+ある魔女の物語－５
+A Witch's Tale - 5
+어느 마녀의 이야기5
+某位魔女的故事－５
+ある魔女の物語－６
+A Witch's Tale - 6
+어느 마녀의 이야기6
+某位魔女的故事－６
+ある魔女の物語－７
+A Witch's Tale - 7
+어느 마녀의 이야기7
+某位魔女的故事－７
+ある魔女の物語－８
+A Witch's Tale - 8
+어느 마녀의 이야기8
+某位魔女的故事－８
+ある魔女の物語－９
+A Witch's Tale - 9
+어느 마녀의 이야기9
+某位魔女的故事－９
+ある魔女の物語－１０
+A Witch's Tale - 10
+어느 마녀의 이야기10
+某位魔女的故事－１０
+はい
+OK
+네
+是
+いいえ
+Cancel
+아니요
+否
+このステージをやりなおします。\n※今のステージの進行状況はリセットされます。
+Try this stage again?\nCurrent stage progress will be lost.
+스테이지를 처음부터 다시 시작합니다.\n※현재 진행 상태는 파기됩니다.
+將重新嘗試此關卡。\n※將會重置目前的關卡進行狀況。
+このステージをスキップして、\n次のステージを始めます。\n※取得していないアイテムは取得されません。
+Skip this stage and\nstart the next stage? \nItems not acquired will be left behind.
+이 스테이지를 건너뛰고\n다음 스테이지를 시작합니다.\n※획득한 아이템은 모두 사라집니다.
+將略過此關卡，\n由下一個關卡開始。\n※無法獲取尚未取得的道具。
+タイトル画面に戻ります。\n※今のステージの進行状況は破棄されます。
+Return to the title screen?\nCurrent stage progress will be lost.
+타이틀 화면으로 돌아갑니다.\n※현재 진행 상태는 파기됩니다.
+將返回標題畫面。\n※目前關卡的進行狀況將被捨棄。
+このステージへ移動します。\n※今のステージの進行状況は破棄されます。
+Move on to this stage?\nCurrent stage progress will be lost.
+이 스테이지로 이동합니다.\n※현재 진행 상태는 파기됩니다.
+將移動到此關卡。\n※目前關卡的進行狀況將被捨棄。
+このメモリーを再生しますか？
+Replay this Memory?
+이 기억을 재생할까요?
+要播放這個記憶嗎？
+このしおりにセーブします。\n※既にあるデータは上書きされます。
+Save this bookmark?\nExisting data will be overwritten.
+이 책갈피에 게임을 저장합니다.\n※이미 저장된 데이터가 있는 경우 덮어씌웁니다.
+即將記錄在此書籤中。\n※原有的資料將被覆蓋。
+セーブデータを削除します。\n※一度削除したセーブデータは元に戻せません。
+Delete save data?\nOnce deleted, save data cannot be restored.
+저장 데이터를 삭제합니다.\n※삭제된 데이터는 원래대로 되돌릴 수 없습니다.
+將刪除記錄。\n※已刪除的記錄將無法復原。
+本当に大丈夫ですか？
+Is this alright?
+정말 실행하시겠습니까?
+真的沒問題嗎？
+このしおりをロードします。\n※今のステージの進行状況は破棄されます。
+Load this bookmark?\nCurrent stage progress will be lost.
+이 책갈피를 불러옵니다.\n※현재 진행 상태는 파기됩니다.
+將讀取此書籤。\n※目前關卡的進行狀況將被捨棄。
+セーブデータを読み込むことができません。
+Save data cannot be read.
+저장 데이터를 불러오지 못했습니다.
+無法讀取記錄。
+OKを押した場合、最初からゲームを開始します。
+Confirming will start the game from the beginning.
+OK를 선택하면 게임을 처음부터 시작합니다.
+按下OK時，將從頭開始進行遊戲。
+この状態でセーブが行われた場合
+Saving in this state will cause
+이 상태를 저장할 경우
+在此狀態下進行記錄時，
+既存のセーブデータは上書きされます。
+existing saved data to be overwritten.
+기존 저장 데이터가 사라집니다.
+將會覆蓋原有的記錄資料。
+セーブデータの保存に失敗しました。
+Failed to save data.
+저장 데이터 보존에 실패했습니다.
+保存記錄失敗。
+再度セーブデータの保存を行いますか？
+Try saving the save data again?
+다시 시도하시겠습니까?
+要再次保存記錄嗎？
+まだスキップはできません。\n※%d分%d秒後にスキップできるようになります。
+Cannot skip right now.\nCan be skipped after %d minute(s) and %d second(s).
+아직 건너뛸 수 없습니다.\n※%d분 %d초 뒤에 건너뛸 수 있게 됩니다.
+還不能執行略過。\n※%d分%d秒後即可略過。
+オートセーブで使用するセーブスロットを選択してください。
+Select a bookmark to create a new save file.
+자동저장 슬롯을 선택하세요.
+請選擇自動記錄使用的記錄格。
+このしおりにオートセーブします。\n※既にあるデータは上書きされます。
+Auto-save to this bookmark?\nExisting data will be overwritten.
+이 책갈피에 자동으로 저장됩니다.\n※기존 데이터는 사라집니다.
+將在此書籤進行自動記錄。\n※原有的資料將被覆蓋。
+オートセーブを無効にしてはじめますか？
+Disable auto-save?
+자동저장 기능을 끈 상태로 게임을 시작할까요?
+要將自動記錄設定為無效並開始遊玩嗎？
+このしおりをロードします。
+Load this bookmark?
+이 책갈피의 내용을 불러옵니다.
+讀取此書籤。
+セーブするために必要な空き容量が足りません。
+Not enough free space to save.
+용량이 부족해 저장할 수 없습니다.
+保存記錄所需的空間不足。
+しおり%dが壊れているためセーブできません。\nセーブデータを削除しますか？
+Bookmark %d is broken. Data cannot be saved.\nDelete save data?
+선택한 슬롯의 저장 데이터가 손상되었습니다.
+選定的記錄格中的記錄資料已損毀。
+しおり%dが壊れています。
+Bookmark %d is broken.
+불러온 저장 데이터가 손상되었습니다.
+讀取的記錄資料已損毀。
+しおり%dが壊れているためロードできません。\nセーブデータを削除しますか？
+Bookmark %d is broken. Data cannot be loaded.\nDelete save data?
+しおり%dが壊れているためロードできません。\nセーブデータを削除しますか？
+しおり%dが壊れているためロードできません。\nセーブデータを削除しますか？
+しおり%dを削除しました。
+Bookmark %d was deleted.
+しおり%dを削除しました。
+しおり%dを削除しました。
+セーブデータの削除に失敗しました。
+Failed to delete save data.
+セーブデータの削除に失敗しました。
+セーブデータの削除に失敗しました。
+レンダラーの変更を反映するには\n本アプリケーションの再起動を行ってください。
+レンダラーの変更を反映するには\n本アプリケーションの再起動を行ってください。
+レンダラーの変更を反映するには\n本アプリケーションの再起動を行ってください。
+レンダラーの変更を反映するには\n本アプリケーションの再起動を行ってください。
+描画処理の方法です。Vulkan推奨。
+描画処理の方法です。Vulkan推奨。
+描画処理の方法です。Vulkan推奨。
+描画処理の方法です。Vulkan推奨。
+処理速度か、画面のちらつきを抑えるかどちらかを優先します。
+処理速度か、画面のちらつきを抑えるかどちらかを優先します。
+処理速度か、画面のちらつきを抑えるかどちらかを優先します。
+処理速度か、画面のちらつきを抑えるかどちらかを優先します。
+前のページに戻る
+前のページに戻る
+前のページに戻る
+前のページに戻る
+設定を保存しますか？
+Save settings?
+설정을 저장할까요?
+要儲存設定嗎？
+設定を初期化します。\nよろしいですか？
+Revert settings to default?
+설정을 초기화합니다.\n실행할까요?
+是否確定將設定.\n初始化？
+戻る
+Back
+뒤로
+返回
+Ⓐ移動
+ⒶMove
+Ⓐ 이동
+Ⓐ 移動
+Ⓙ決定
+ⒿConfirm
+Ⓙ 결정
+Ⓙ 決定
+Ⓚ戻る
+ⓀGo back
+Ⓚ 뒤로
+Ⓚ 返回
+Ⓜセーブデータ削除
+ⓂDelete save data
+Ⓜ 저장 데이터 삭제
+Ⓜ 刪除記錄
+？？？？？
+?????
+?????
+？？？？？
+？？？？？？？？？？
+??????????
+??????????
+？？？？？？？？？？
+Flower
+Flowers
+Flower
+Flower
+Memory
+Memories
+Memory
+Memory
+月夜に溶ける歌
+A Song Melting in the Moonlight Night
+A Song Melting in the Moonlight Night
+A Song Melting in the Moonlight Night
+はじまりの一頁
+Turning Over a New Page
+Turning Over a New Page
+Turning Over a New Page
+灯を閉じ込める檻
+The Cage That Locked the Light
+The Cage That Locked the Light
+The Cage That Locked the Light
+狂楽の魔女
+The Witch of Madness
+The Witch of Madness
+The Witch of Madness
+光花の群生地
+Radiant Floral Colony
+Radiant Floral Colony
+Radiant Floral Colony
+綿積りの白道
+Creamy Cotton Road
+Creamy Cotton Road
+Creamy Cotton Road
+気まぐれ魔女の蒐集箱
+Collection Box of the Whimsical Witch
+Collection Box of the Whimsical Witch
+Collection Box of the Whimsical Witch
+一輪のほほ笑み
+One Flower's Smile
+One Flower's Smile
+One Flower's Smile
+蒼海の子守歌
+Blue Ocean Lullaby
+Blue Ocean Lullaby
+Blue Ocean Lullaby
+嘘を重ねて
+Lies, Again and Again
+Lies, Again and Again
+Lies, Again and Again
+言の刃
+Blade of Words
+Blade of Words
+Blade of Words
+灰降る森
+Falling Ash Forest
+Falling Ash Forest
+Falling Ash Forest
+早鐘を打つ鼓動
+Heart Beating Fast
+Heart Beating Fast
+Heart Beating Fast
+古き童話の残照
+Fairy Tale Afterglow
+Fairy Tale Afterglow
+Fairy Tale Afterglow
+君が全てを忘れても
+Even If All Is Forgotten…
+Even If All Is Forgotten…
+Even If All Is Forgotten…
+？？？？？？？？？？
+??????????
+??????????
+？？？？？？？？？？
+月夜の音楽会
+Moonlit Night Concert
+Moonlit Night Concert
+Moonlit Night Concert
